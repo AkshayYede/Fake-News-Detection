@@ -3,7 +3,7 @@
 This project is a **machine learning-based web application** that classifies news articles as **Real** or **Fake**. It uses **Natural Language Processing (NLP)** techniques and a **Flask** web app for user interaction.
 
 ## 🚀 Live Demo  
-🔗 **[Try it here](https://fake-news-detection-lwy5.onrender.com)**  
+🔗 **[Try it here](https://fake-news-detection-ezpt.onrender.com)**  
 
 ---
 
