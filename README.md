@@ -17,7 +17,7 @@ This project is a **machine learning-based web application** that classifies new
 
 ## 🛠️ Tech Stack  
 - **Python** (Flask, Scikit-learn, Pandas, NumPy)  
-- **Machine Learning** (Logistic Regression, TF-IDF)  
+- **Machine Learning** (Random Forest Classification, TF-IDF)  
 - **Joblib** (for model persistence)  
 - **HTML & CSS** (for UI)  
 - **Render** (for deployment)  
